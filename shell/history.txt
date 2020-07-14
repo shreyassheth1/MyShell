@@ -1,0 +1,15 @@
+cat wc
+cat
+ls | wc
+cat wc
+ls | wc > abc.txt
+ls
+wc > abc.txt
+cat abc.txt
+exit
+ls > abc.txt
+cat abc.txt
+cat *
+cat tp.cpp
+wc < tp.cpp
+wc
